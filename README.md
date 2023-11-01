@@ -1,16 +1,16 @@
-# calculadora
+# calculadora mágica
 
-A new Flutter project.
+Este projeto foi construido para uma palestra na Etec de botucatu
+segue algumas fotos do dia ❤️
 
-## Getting Started
+Toda contribuição é bem vinda
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![texto](assets/photo_2023-10-31_23-54-07.jpg)
+![texto](assets/photo_2023-10-31_23-54-08.jpg)
+![texto](assets/photo_2023-10-31_23-54-09%20(2).jpg)
+![texto](assets/photo_2023-10-31_23-54-09%20(3).jpg)
+![texto](assets/photo_2023-10-31_23-54-09%20(4).jpg)
+![texto](assets/photo_2023-10-31_23-54-09%20(5).jpg)
+![texto](assets/photo_2023-10-31_23-54-09%20(6).jpg)
+![texto](assets/photo_2023-10-31_23-54-09.jpg)
+![texto](assets/photo_2023-10-31_23-54-10.jpg)
